@@ -1,2 +1,3 @@
 # argocli
-Argo CLI in alpine docker with empty entrypoint
+
+Argo CLI in alpine image with empty entrypoint
